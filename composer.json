@@ -1,6 +1,6 @@
 {
-    "name": "anhskohbo/no-captcha",
-    "description": "No CAPTCHA reCAPTCHA For Laravel.",
+    "name": "luppakorva/no-captcha",
+    "description": "No CAPTCHA reCAPTCHA For Laravel 8.",
     "keywords": ["recaptcha", "no-captcha", "captcha", "laravel", "laravel4", "laravel5", "laravel6"],
     "license": "MIT",
     "authors": [
@@ -11,8 +11,8 @@
     ],
     "require": {
         "php": ">=5.5.5",
-        "illuminate/support": "^5.0|^6.0|^7.0",
-        "guzzlehttp/guzzle": "^6.2|^7.0"
+        "illuminate/support": "^5.0|^6.0|^7.0|^8.0,
+        "guzzlehttp/guzzle": "^6.2|^7.0|^8.0
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8"
